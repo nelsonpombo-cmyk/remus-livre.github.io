@@ -26,4 +26,4 @@ O ecossistema é organizado em quatro camadas:
 
 ---
 
-*Este repositório é parte integrante da pesquisa do NECT.*
+*Este repositório é parte integrante da pesquisa ......*
